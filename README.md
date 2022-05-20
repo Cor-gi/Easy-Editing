@@ -22,8 +22,6 @@ Click add new bookmark,
 
 But the title as anything you want,
 
-Paste the code from the Editing On code or the Editing Off code in the URL box,
+Paste the code from the code file in the URL box,
 
 Click save.
-
-(Repeat this for both scripts)
