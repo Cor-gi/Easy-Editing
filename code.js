@@ -1,4 +1,3 @@
-javascript:
 if (document.body.contentEditable == "true") {
     document.body.contentEditable = false;
 } else {
